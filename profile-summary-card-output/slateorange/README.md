@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/trapedev/trapedev/main/profile-summary-card-output/slateorange/4-productive-time.svg)
+```
+
+    
